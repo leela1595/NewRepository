@@ -3,3 +3,4 @@ flask
 pickle
 pandas
 matplotlib
+scikit-learn
